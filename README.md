@@ -22,6 +22,13 @@ A colorful Streamlit dashboard for tracking household items, backed by a live Go
 
 An item shows up under "Running low" when `Quantity <= Reorder At` (and `Reorder At > 0`).
 
+## Adding and updating items
+
+Use the **➕ Add a new item** and **🔄 Update quantity** forms right in the app —
+they write straight to the sheet and the dashboard refreshes instantly.
+(This needs the service account to have **Editor** access to the sheet,
+and the app requests the full `spreadsheets` OAuth scope.)
+
 ## Run locally
 
 ```bash
