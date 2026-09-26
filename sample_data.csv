@@ -1,0 +1,27 @@
+Item,Category,Quantity,Reorder At,Location,Notes
+Coffee maker,Kitchen,1,0,Kitchen counter,"Drip, 12-cup"
+Chef's knives set,Kitchen,1,0,Kitchen drawer,8-piece
+Cutting boards,Kitchen,3,1,Kitchen cabinet,
+Blender,Kitchen,1,0,Pantry,High-speed
+Dinner plates set,Kitchen,1,0,Kitchen cabinet,12-piece
+Cordless drill,Tools,1,0,Garage,20V
+Hammer,Tools,2,1,Garage toolbox,
+Screwdriver set,Tools,1,0,Garage toolbox,12-piece
+Tape measure,Tools,1,0,Garage toolbox,25 ft
+Step ladder,Tools,1,0,Garage,6 ft
+HDMI cables,Electronics,4,2,Office drawer,6 ft
+Power strips,Electronics,3,1,Office closet,Surge protected
+Laptop charger,Electronics,1,0,Office desk,USB-C 65W
+AA batteries,Electronics,8,4,Utility drawer,
+LED light bulbs,Electronics,6,4,Utility closet,60W equivalent
+Flashlight,Electronics,2,1,Entryway closet,
+Paper towels,Cleaning,2,4,Pantry,
+Dish soap,Cleaning,1,2,Under kitchen sink,
+Trash bags,Cleaning,1,2,Pantry,13-gallon
+Laundry detergent,Cleaning,1,1,Laundry room,HE pods
+Bath towels,Linens,6,2,Linen closet,
+Queen sheet sets,Linens,2,1,Linen closet,
+Garden hose,Outdoor,1,0,Shed,50 ft
+Shovel,Outdoor,1,0,Shed,
+First aid kit,Safety,1,0,Bathroom cabinet,
+Fire extinguisher,Safety,1,0,Kitchen,Check yearly
